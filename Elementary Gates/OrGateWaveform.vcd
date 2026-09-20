@@ -1,0 +1,53 @@
+$date
+  Mon Jul 20 20:39:43 2026
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module or_gate_tb $end
+$var reg 1 ! a_i $end
+$var reg 1 " b_i $end
+$var reg 1 # q_o $end
+$scope module uut $end
+$var reg 1 $ a_i $end
+$var reg 1 % b_i $end
+$var reg 1 & q_o $end
+$var reg 1 ' a_inv $end
+$var reg 1 ( b_inv $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+1'
+1(
+#1000000
+1"
+1#
+1%
+1&
+0(
+#2000000
+1!
+0"
+1$
+0%
+0'
+1(
+#3000000
+1"
+1%
+0(
+#4000000
